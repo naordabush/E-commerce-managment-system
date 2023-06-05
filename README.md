@@ -19,7 +19,7 @@ The E-commerce Application is designed to provide an online shopping experience.
 - Spring Boot
 - React
 - Redux
-- PostgreSQL (or your preferred database)
+- MYSQL
 - Java
 - JavaScript
 - HTML
@@ -29,7 +29,7 @@ The E-commerce Application is designed to provide an online shopping experience.
 
 - Java Development Kit (JDK) installed
 - Node.js and npm (Node Package Manager) installed
-- PostgreSQL (or your preferred database) installed and configured
+- MYSQL installed and configured
 
 ## Getting Started
 
