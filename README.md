@@ -70,3 +70,9 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Screenshoots
+
+![Screenshot 2024-05-28 170046](https://github.com/naordabush/E-commerce-managment-system/assets/65256155/9dfefcb5-807c-461b-8258-6d3e424ec979)
+
+![Screenshot 2024-05-28 170053](https://github.com/naordabush/E-commerce-managment-system/assets/65256155/225782b8-c4d9-4ca6-8df7-f4feaeec976e)
